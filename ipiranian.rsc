@@ -1,8 +1,3 @@
-# nov/18/2024 14:12:52 by RouterOS 6.49.13
-# software id = 67UR-B5EY
-#
-# model = RB760iGS
-# serial number = HEF08TQ2QDD
 /ip firewall address-list
 add address=2.144.0.0/16 list=Iran
 add address=2.145.0.0/17 list=Iran
